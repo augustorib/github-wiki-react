@@ -2,6 +2,8 @@
 
 Este é um projeto em React, desenvolvido para o bootcamp Bootcamp XP Inc. - Full Stack Developer, que utiliza a API do GitHub para buscar e exibir repositórios públicos de usuários. A aplicação permite inserir um nome de usuário do GitHub, junto com o nome do repositório, para buscar o repositório e exibir em uma lista na página inicial.
 
+Este projeto foi baseado no repositório [digitalinnovationone/trilha-react-desafio-2](https://github.com/digitalinnovationone/trilha-react-desafio-2).
+
 ## Tecnologias Utilizadas
 
 - **React 18.3.1**: Biblioteca JavaScript para construir interfaces de usuário baseada em componentes.
